@@ -196,3 +196,19 @@ There are many programming languages to choose from. Some of the most popular on
 - go
 
 It's important to note that not all languages are created equal. Some are better suited for certain tasks than others.
+
+## Databases 
+
+Databases can be used in different ways. Some of the most popular ones are:
+- SQL (Structured Query Language) -
+- MySQL
+- PostgreSQL
+- SQLite
+- NoSQL (Not Only SQL) -
+- MongoDB
+- Cassandra
+- Redis
+
+## Conclusion
+
+Becoming a software developer is a challenging but rewarding journey. It requires a lot of hard work and dedication, but the payoff is worth it. If you're passionate about technology and enjoy solving problems, then software development might be the right career for you.
